@@ -1,2 +1,6 @@
 # fictional-octo-eureka
-My first repository i suppose. 
+
+Howdy do, a bit on myself? Well, partially
+d e a d 
+inside. However i'm optomistic for the most part. Not much more to 
+tell..
